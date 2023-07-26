@@ -14,3 +14,5 @@ for example like `http://localhost:8000/catalog?combine_fields=price_buy_net,cur
 
 
 There are some basic test cases to test the overall functionality and can be run using `pytest test.py`
+
+There is also `catalog.json` present which contains the output result data in JSON format.
